@@ -7,6 +7,8 @@ const Input = props => {
     )
 }
 
+// {...props} is very cool
+
 const styles = StyleSheet.create({
     input: {
         height: 30,
